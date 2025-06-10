@@ -1,3 +1,4 @@
+```
 taco-php (to-do)/
 │
 ├── composer.json                # for autoloading (PSR-4) and future dependencies
@@ -39,4 +40,4 @@ taco-php (to-do)/
 │   └── .htaccess                # for Apache rewrite to funnel to index.php
 │
 └── logs/
-    └── app.log                  # for logging errors
+    └── app.log                  # for logging errors```
